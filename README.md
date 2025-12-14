@@ -1,2 +1,2 @@
 # Railway-Booking-System
-Railway Booking System , Sear cancellation , Checking Seat Availability
+Railway Booking System , Seat cancellation , Checking Seat Availability
